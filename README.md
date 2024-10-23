@@ -3,7 +3,7 @@
 🔭 I’m currently working on creating Full-Stack Web Applications<br/>
 ⚡ Fun fact, I currently have 10 years of software development experience and 5 years of professional work experience. <br/>
 
-<br/>
+
 
 # 💻 Tech Stack
 
