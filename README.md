@@ -49,9 +49,6 @@
 ![TeamCity](https://img.shields.io/badge/teamcity-000000.svg?style=flat&logo=teamcity&logoColor=white)
 
 
-<br/>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/denzel-awuah-436806185/) 
 
