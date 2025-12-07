@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🤝 A Senior Full-Stack Software Engineer with a passion and focus on creating efficient and innovative solutions.<br>🔭 I’m currently working on creating Full-Stack Web Applications. <br>⚡ Fun fact, I currently have 11 years of software development experience and 7 years of professional work experience.</p>
+<p align="left">🤝 A Senior Full-Stack Software Engineer with a passion and focus on creating efficient and innovative solutions.<br>🔭 I’m currently working on creating Generative AI applications, Frontier Model Optimization, Large Language Models and Full-Stack Web Applications. <br>⚡ Fun fact, I currently have 11 years of software development experience and 7 years of professional work experience.</p>
 
 ###
 
